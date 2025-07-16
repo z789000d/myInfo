@@ -1,5 +1,9 @@
 # 個人開發經歷
 
+## 自我介紹與期許
+
+我對**電子商務相關的 App 製作、金流系統、Web3 區塊鏈技術、多線程操作**以及**行動判斷 (Action Judgement)** 領域抱有極高的興趣與深入研究的熱情。我渴望能加入一個充滿活力的團隊，共同精進這些相關內容，並在實際專案中貢獻所學，持續成長。
+
 ---
 
 ## 2016 ~ 2020: 米菲多媒體有限公司
@@ -8,7 +12,7 @@
 
 ### 主要作品：
 
-1.  **MAKAR APP** [Link](https://play.google.com/store/apps/details?id=com.mifly.MakarViewerApp&hl=zh_TW) 
+1.  **MAKAR APP** [Link](https://play.google.com/store/apps/details?id=com.mifly.MakarViewerApp&hl=zh_TW) [DEMO](https://www.youtube.com/watch?v=ifn3oqhhf1A)
     * **開發工具**：Unity (C#) + Android Studio + Xcode
     * **核心技術與框架**：
         * MM no View
@@ -36,9 +40,7 @@
 
 ### 主要作品：
 
-1.  **樂淘 APP** [Link](https://play.google.com/store/apps/details?id=tw.com.letao.android)  
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/ANVDRbvw-q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+1.  **樂淘 APP** [Link](https://play.google.com/store/apps/details?id=tw.com.letao.android)  [DEMO](https://youtube.com/shorts/ANVDRbvw-q4)
 
     * **開發工具**：Android Studio (Java + Kotlin)
     * **核心技術與框架**：
@@ -49,7 +51,7 @@
         * **後端服務**：Firebase。
         * **使用者介面**：XML Layout, Custom View。
 
-2.  **Funbid APP** (香港代標代購平台) [Link](https://play.google.com/store/apps/details?id=hk.com.funbid.android) 
+2.  **Funbid APP** (香港代標代購平台) [Link](https://play.google.com/store/apps/details?id=hk.com.funbid.android) [DEMO](https://youtube.com/shorts/AGSRw7W9rYQ)
     * **開發工具**：Android Studio (Java + Kotlin)
     * **核心技術與框架**：
         * **架構模式**：MVVM。
@@ -82,7 +84,7 @@
         * **相機 API 掌握**：CameraX。
         * **硬體整合**：Bluetooth Hardware (HID)。
 
-2.  **Web3 區塊鏈錢包**
+2.  **Web3 區塊鏈錢包** [DEMO](https://youtube.com/shorts/EYNoK3mzAag)
     * **開發工具**：Android Studio (Flutter + Dart)
     * **核心技術與框架**：
         * **架構模式**：MVVM, MVI。
